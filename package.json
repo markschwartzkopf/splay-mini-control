@@ -1,6 +1,6 @@
 {
   "name": "splay-mini-control",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package for control of the ENTTEC S-Play Mini ",
   "main": "dist/index.js",
   "scripts": {
