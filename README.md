@@ -29,3 +29,8 @@ mySplay
     console.error(err);
   });
 ```
+
+## More Documentation
+The API is documented in [ENTTEC's GitHub repo here](https://github.com/ENTTEC/SplayApi), for users of more expensive S-Plays. This package is nearly a one-to-one connection to the API, plus functionality to receive the required authorization string.<br>
+<br>
+If anyone wants to do a PR to allow this package to talk to other S-Plays, feel free
