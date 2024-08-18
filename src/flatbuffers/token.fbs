@@ -1,0 +1,12 @@
+namespace SPlayControl;
+
+table Header {
+	token:string;
+}
+
+table Message {
+  header:Header;
+  body:string;
+}
+
+root_type Message;
